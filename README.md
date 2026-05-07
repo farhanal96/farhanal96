@@ -106,3 +106,29 @@ I build autonomous AI agents, end-to-end ML pipelines, and scientific analysis w
 
 ## Research Interests
 
+🤖 Agentic AI & LLM Integration        🌌 Astrophysics
+🧠 Machine Learning for Science        🔭 Condensed Matter Physics
+
+📊 Data Science & Analysis             ⚛️  Computational & Applied Physics
+
+
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=farhanal96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanal96&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaborations at the intersection of physics and AI*  
+**Let's connect →** [farhanabhuiyanliza@gmail.com](mailto:farhanabhuiyanliza@gmail.com)
+
+</div>
