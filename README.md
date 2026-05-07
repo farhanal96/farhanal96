@@ -112,19 +112,6 @@ I build autonomous AI agents, end-to-end ML pipelines, and scientific analysis w
 📊 Data Science & Analysis             ⚛️  Computational & Applied Physics
 
 
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://streak-stats.demolab.com/?user=farhanal96&theme=tokyonight&hide_border=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanal96&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
 ---
 
 <div align="center">
