@@ -119,8 +119,9 @@ I build autonomous AI agents, end-to-end ML pipelines, and scientific analysis w
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=farhanal96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanal96&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://streak-stats.demolab.com/?user=farhanal96&theme=tokyonight&hide_border=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanal96&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
