@@ -1,70 +1,108 @@
-# Farhana Bhuiyan Liza
+<div align="center">
 
-**Physicist · Data Analyst · Researcher**  
-Berlin, Germany · [farhanabhuiyanliza@gmail.com](mailto:farhanabhuiyanliza@gmail.com) · [LinkedIn](https://www.linkedin.com/in/farhanal96)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9E6B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farhana+Bhuiyan+Liza+%F0%9F%91%8B;Physicist+%7C+AI+Engineer+%7C+Researcher;Building+where+Physics+meets+AI" alt="Typing SVG" />
 
----
+<br/>
 
-Physicist and machine learning practitioner combining rigorous scientific methodology with hands-on AI and data engineering experience. Currently completing a **Master's in Physics at Freie Universität Berlin**, with laboratory research across quantum physics, optical spectroscopy, and condensed matter.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanal96)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanabhuiyanliza@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanal96)
+![Berlin](https://img.shields.io/badge/📍_Berlin,_Germany-2E9E6B?style=for-the-badge)
 
-I build autonomous AI agents, end-to-end ML pipelines, and analysis workflows that connect to real scientific databases — excited by problems where **physics, computation, and AI meet**.
-
----
-
-## Technical Projects
-
-### Physics Research AI Agent
-**`Python` · `Agentic AI` · `Tool-calling` · `arXiv API`**
-
-Autonomous AI agent that searches the arXiv physics database, ranks abstracts by relevance, and delivers structured research summaries from natural-language questions. The agent uses tool-calling to decide which papers to retrieve and supports a multi-turn conversation loop for follow-up questions that trigger deeper searches.
-
-→ [github.com/farhanal96/physics-research-ai-agent](https://github.com/farhanal96/physics-research-ai-agent)
+</div>
 
 ---
 
-### DNA Sequence Analysis with Machine Learning
-**`Python` · `Machine Learning` · `Bioinformatics` · `NCBI Entrez API`**
+## About Me
 
-End-to-end ML pipeline that classifies gene types from real DNA sequences fetched directly from the NCBI public database. Engineered numerical features from raw sequences (GC content, length, nucleotide frequencies) and trained a Random Forest classifier, evaluated with confusion matrices and feature-importance analysis.
+Physicist and machine learning practitioner combining rigorous scientific methodology with hands-on AI and data engineering. Currently completing a **Master's in Physics at Freie Universität Berlin**, with active laboratory research across quantum physics, optical spectroscopy, and condensed matter.
 
-→ [github.com/farhanal96/dna-sequence-ml-analysis](https://github.com/farhanal96/dna-sequence-ml-analysis)
+I build autonomous AI agents, end-to-end ML pipelines, and scientific analysis workflows that connect to real-world databases.
+
+> Excited by problems where **physics, computation, and AI meet**.
 
 ---
 
-## Skills
+## Tech Stack
 
-**Programming & Tools**  
-Python · Mathematica · Origin Lab · LaTeX · Git & GitHub
+**Languages & Scientific Tools**
 
-**AI & Data**  
-Agentic AI design · Machine Learning · Feature engineering · API integration · Reproducible pipelines · Classification models
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Physics & Research**  
-Spectrometry · Error analysis & modelling · Scientific writing · Experimental physics · Data-driven modelling
+**AI & Machine Learning**
 
-**Languages**  
-English (Professional) · German (Intermediate)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-6366F1?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-EC4899?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-0EA5E9?style=flat-square)
+
+**Physics & Research Methods**
+
+![Spectrometry](https://img.shields.io/badge/Spectrometry-2E9E6B?style=flat-square)
+![Error Analysis](https://img.shields.io/badge/Error_Analysis_&_Modelling-2E9E6B?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2E9E6B?style=flat-square)
+![Scientific Writing](https://img.shields.io/badge/Scientific_Writing-2E9E6B?style=flat-square)
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Physics Research AI Agent</h3>
+      <p>
+        Autonomous AI agent that searches the <strong>arXiv physics database</strong>, ranks abstracts by relevance, and delivers structured research summaries from natural-language questions.
+      </p>
+      <ul>
+        <li>Tool-calling agentic loop</li>
+        <li>Multi-turn conversation support</li>
+        <li>Relevance-ranked paper retrieval</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/arXiv_API-B31B1B?style=flat-square"/>
+      </p>
+      <a href="https://github.com/farhanal96/physics-research-ai-agent">→ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 DNA Sequence Analysis with ML</h3>
+      <p>
+        End-to-end ML pipeline that classifies gene types from real DNA sequences fetched from the <strong>NCBI public database</strong> via the Entrez API.
+      </p>
+      <ul>
+        <li>Feature engineering from raw sequences</li>
+        <li>Random Forest classifier</li>
+        <li>Confusion matrix & feature-importance analysis</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NCBI_API-336699?style=flat-square"/>
+      </p>
+      <a href="https://github.com/farhanal96/dna-sequence-ml-analysis">→ View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Education
 
-**Master's in Physics** — Freie Universität Berlin *(2023 – Present)*  
-Specialising in experimental and applied physics, data analysis, and computational methods. Active laboratory research in quantum physics and optical spectroscopy.
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| 🎓 Master's in Physics | Freie Universität Berlin, Germany | 2023 – Present |
+| 🎓 BSc in Physics | University of Dhaka, Bangladesh | 2015 – 2019 |
 
-**Bachelor of Science in Physics** — University of Dhaka *(2015 – 2019)*  
-Classical mechanics, electromagnetism, quantum physics, and optics. Laboratory-intensive curriculum with emphasis on experimental verification of physical laws.
+**Master's Research Focus:** Experimental & applied physics · Quantum physics · Optical spectroscopy · Condensed matter · Data analysis & computational methods
 
 ---
 
 ## Research Interests
 
-- Agentic AI & LLM integration
-- Machine Learning for scientific applications
-- Astrophysics & Condensed Matter Physics
-- Computational and Applied Physics
-- Data Science
-
----
-
-*Open to collaborations at the intersection of physics and AI.*
